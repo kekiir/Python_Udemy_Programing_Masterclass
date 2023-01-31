@@ -12,3 +12,9 @@ print("The pet shop owner said \"No, no, 'e's uh,...he's resting\".")
 print("""The pet shop owner said "No, no, 'e's uh,...he's resting".""")
 print(6*6)
 
+anotherSplitString = """This string has been
+split over
+severeal
+lines"""
+
+print(anotherSplitString)
